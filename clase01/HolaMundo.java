@@ -1,3 +1,4 @@
+package clase01;
 public class HolaMundo{
 
     int edad = 10;
