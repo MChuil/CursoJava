@@ -15,6 +15,6 @@ public class Ejercicios {
 
         // var thirthee = "Mejorar el juego de adivinanza de numeros, dandole al usuario solo 3 intentos. Aplicarle la mejora a el While y al Do..While";
 
-        // var fourthee = "Mejorar la calculadora basica. Despues de dar un resultado, preguntar si desea hacer otra opración, en caso afirmativo, volver a mostrar el menu";
+        // var fourthee = "Mejorar la calculadora basica. Despues de dar un resultado, preguntar si desea hacer otra operación, en caso afirmativo, volver a mostrar el menu";
     }
 }
